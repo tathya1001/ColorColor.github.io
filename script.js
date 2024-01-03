@@ -24,8 +24,6 @@ generateButtonElement.addEventListener("click", function () {
     generateColor();
 });
 
-
-
 function generateColor() {
 
     generateHex();
