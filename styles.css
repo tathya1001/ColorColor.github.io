@@ -58,8 +58,6 @@ body {
     -webkit-tap-highlight-color: transparent;
 }
 
-
-
 #rgbText {
     font-family: 'Inter', sans-serif;
     font-size: 1.5rem;
@@ -118,7 +116,6 @@ body {
 
     #rgbText {
         font-size: 1.25rem;
-
     }
 
     #generateButton {
@@ -127,7 +124,6 @@ body {
 
     #generateButton:active {
         animation: phoneButtonEffect 0.5s ease-in-out;
-
     }
 
     #hexText:active {
