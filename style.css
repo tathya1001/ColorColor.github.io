@@ -14,8 +14,10 @@ body {
     align-items: center;
     flex-direction: row;
     transition: 0.25s;
-    height: 90vh;
+
+    height: 100svh;
     width: 100%;
+
 }
 
 #leftSide {
