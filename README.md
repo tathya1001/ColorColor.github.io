@@ -1,6 +1,6 @@
 # ColorColor
 
-To use it [Click Here](https://tathya1001.github.io/colorcolor.github.io/)
+To use it [Click Here](https://tathya1001.github.io/colorcolor/)
 
 To copy the color Hex Code click/tap on the code to copy it to your clipboard.
 
